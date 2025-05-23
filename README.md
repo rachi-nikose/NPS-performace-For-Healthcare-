@@ -1,3 +1,4 @@
+
 # NPS-performace-For-Healthcare-
 ### What is NPS (Net Promoter Score)?
 
@@ -9,6 +10,8 @@ In this context, it specifically measures how likely patients are to recommend t
 Detractors: These are unhappy patients, giving a score of 0 to 6. They are unlikely to recommend and may even spread negative feedback.
 (Implicitly, scores of 7 and 8 are 'Passives' – satisfied but not enthusiastic, and not included in the direct NPS calculation.)
 Why Does NPS Matter to a Healthcare Company?
+
+![Screenshot 2025-05-24 062612](https://github.com/user-attachments/assets/744b009e-43d5-40cc-ab73-1b2dc31296da)
 
 ### For a healthcare company, NPS is a vital metric because:
 
