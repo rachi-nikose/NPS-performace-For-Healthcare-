@@ -12,11 +12,12 @@ Why Does NPS Matter to a Healthcare Company?
 
 ### For a healthcare company, NPS is a vital metric because:
 
- Patient Retention and Growth: High NPS indicates satisfied patients who are more likely to continue therapy and refer new patients. In healthcare, referrals are a significant source of new patients.
- Quality of Care Indicator: A strong NPS suggests that the therapy is effective and the patient experience is positive.
- Early Warning System: A declining NPS can signal underlying issues with the therapy, patient support, or overall service, allowing the company to address them proactively.
-Competitive Advantage: Companies with higher NPS often outperform competitors due to stronger patient loyalty and reputation.
-The Business Problem We Were Solving:
+ ### Patient Retention and Growth: High NPS indicates satisfied patients who are more likely to continue therapy and refer new patients. In healthcare, referrals are a significant source of new patients.
+ #### Quality of Care Indicator: A strong NPS suggests that the therapy is effective and the patient experience is positive.
+ #### Early Warning System: A declining NPS can signal underlying issues with the therapy, patient support, or overall service, allowing the company to address them proactively.
+#### Competitive Advantage: Companies with higher NPS often outperform competitors due to stronger patient loyalty and reputation.
+
+##The Business Problem We Were Solving:
 
  The core business problem was the need to closely monitor and supervise patient satisfaction with their therapy over time, using NPS as a key indicator. The company needed a structured way to:
 
