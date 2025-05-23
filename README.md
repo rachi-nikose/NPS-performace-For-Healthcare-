@@ -17,7 +17,7 @@ Why Does NPS Matter to a Healthcare Company?
  #### Early Warning System: A declining NPS can signal underlying issues with the therapy, patient support, or overall service, allowing the company to address them proactively.
 #### Competitive Advantage: Companies with higher NPS often outperform competitors due to stronger patient loyalty and reputation.
 
-##The Business Problem We Were Solving:
+## The Business Problem We Were Solving:
 
  The core business problem was the need to closely monitor and supervise patient satisfaction with their therapy over time, using NPS as a key indicator. The company needed a structured way to:
 
